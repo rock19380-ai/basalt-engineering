@@ -1,5 +1,7 @@
 # Basalt Engineering Showcase
 
+[![CI](https://github.com/rock19380-ai/basalt-engineering/actions/workflows/ci.yml/badge.svg)](https://github.com/rock19380-ai/basalt-engineering/actions/workflows/ci.yml)
+
 **Solana-first, non-custodial stablecoin payment-operations infrastructure.**
 
 This public repository documents selected engineering concepts from Basalt without mirroring its private production source.
